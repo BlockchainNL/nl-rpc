@@ -1,0 +1,29 @@
+{
+  "name": "nl-rpc",
+  "version": "1.0.0",
+  "description": "Remote Ethereum testnet",
+  "main": "index.js",
+  "scripts": {
+    "start": "ganache-cli"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlockchainNL/nl-rpc.git"
+  },
+  "keywords": [
+    "testrpc",
+    "ganache-cli",
+    "ethereum",
+    "web3",
+    "dapp"
+  ],
+  "author": "BlockchainNL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlockchainNL/nl-rpc/issues"
+  },
+  "homepage": "https://github.com/BlockchainNL/nl-rpc#readme",
+  "dependencies": {
+    "ganache-cli": "^6.1.0"
+  }
+}
